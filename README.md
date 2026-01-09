@@ -1,4 +1,4 @@
-# 📄  XMLifyPdf
+# 📄  DocuStruct
 
 A full-stack web application that allows users to upload PDF files, convert them into XML format, preview both the original PDF and the converted XML, manage conversion history, and securely authenticate users.
 
